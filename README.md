@@ -8,7 +8,7 @@ BASE URL: https://jobfunnel.herokuapp.com/
 
 DOCS: https://jobfunnel.herokuapp.com/swagger-ui/index.html#/
 
-![](Screenshot 2022-08-04 at 5.23.38 PM.png)
+![](2022-08-04-17-40-13.png)
 
 ### Required request body
 - ### User
